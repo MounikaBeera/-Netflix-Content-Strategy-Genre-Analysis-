@@ -31,7 +31,6 @@ This project uses real-world Netflix catalogue data to answer that question thro
 | Field | Detail |
 |-------|--------|
 | **Source** | [Kaggle — Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
-| **Author** | Shivam Bansal (`shivamb`) |
 | **File** | `netflix_titles.csv` |
 | **Size** | 8,800+ rows · ~3 MB |
 | **Licence** | CC0: Public Domain |
